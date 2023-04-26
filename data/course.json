@@ -1,0 +1,29 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "chandra-astrophysics-institute"
+  },
+  "course_image": {
+    "content": "",
+    "website": "chandra-astrophysics-institute"
+  },
+  "course_title": "Chandra Astrophysics Institute ",
+  "course_description": "The Chandra Astrophysics Institute (CAI) is an opportunity for students in grades 9-11 from a wide range of academic backgrounds to train for and undertake astronomy projects. The students are mentored by MIT scientists and use observations from the Chandra X-Ray space telescope.",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.HS-001",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "chandra-astrophysics-institute"
+  },
+  "learning_resource_types": [],
+  "site_uid": "63b02fc3-9fbf-49e7-adcf-e4bc96124c82",
+  "site_short_id": "RES.HS-001"
+}
