@@ -1,11 +1,9 @@
 ---
 content_type: page
-description: 'Investigation 6: Galaxy Clusters - Activity 4
-
-  '
+description: 'Investigation 6: Galaxy Clusters - Activity 4'
 draft: false
 title: 'Investigation 6: Galaxy Clusters - Activity 4'
-uid: 2221ed2d-c98d-43fb-95d4-a67b9689b854
+uid: 39b20dfd-1430-4d4c-a4a3-9d2568883c85
 ---
 ## **Observations of Galaxy Clusters**
 
