@@ -1,11 +1,9 @@
 ---
 content_type: page
-description: 'Investigation 6: Galaxy Clusters - Activity 5
-
-  '
+description: 'Investigation 6: Galaxy Clusters - Activity 5'
 draft: false
 title: 'Investigation 6: Galaxy Clusters - Activity 5'
-uid: 911e2953-58e4-420c-b68e-0a94f468cd08
+uid: 04edc10b-e962-4420-b41b-edd944861616
 ---
 ## **Predictions of Linear Size of Galaxy Cluster**
 
@@ -24,7 +22,7 @@ uid: 911e2953-58e4-420c-b68e-0a94f468cd08
     - Which object is in the front of the cluster? (smallest recessional velocity ~ 19, 960 km/s)
     - What object is in the back of the cluster? (largest recessional velocity ~ 25,340 km/s)
     - Predict the linear "depth" of the cluster (i.e. distance from front to back of cluster), and compare it to the predicted linear diameter from activity 4. (77 Mpc = 2.3 x 1024 meters front to back, should be about 1000 times longer than linear diameter!)
-- This prediction does not make sense. Does this mean that Hubble's law is incorrect? No, we simply have to revise our model of the cluster. There is motion of some galaxies that "adds on" or "subtracts off" the Hubble flow velocity. This motion is caused by orbiting around the cluster, which can tell us about the mass present in the cluster. (This is one possible avenue for the independent project, leading to a discussion of dark matter...) 
+- This prediction does not make sense. Does this mean that Hubble's law is incorrect? No, we simply have to revise our model of the cluster. There is motion of some galaxies that "adds on" or "subtracts off" the Hubble flow velocity. This motion is caused by orbiting around the cluster, which can tell us about the mass present in the cluster. (This is one possible avenue for the independent project, leading to a discussion of dark matter…) 
     - Note: in Summer 2008, we did not introduce 2 different models, but simply assumed the first model.
 - Show images of other galaxy clusters: Why are they different? Perseus (obsid 3209), Bullet cluster (obsid 3184), M87 (obsid 2707). Why might their morphology (shape) be different? (effect of supermassive black holes at centers of cluster galaxies and/or collisions between clusters) 
     - Students generate questions related to galaxies and galaxy clusters as starting points for the independent projects.
