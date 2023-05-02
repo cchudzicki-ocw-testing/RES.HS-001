@@ -3,7 +3,7 @@ content_type: page
 description: 'The course syllabus '
 draft: false
 title: Syllabus
-uid: 705addd4-d3e8-4b73-b08d-997c1e0cbc5d
+uid: 3223f973-77cb-4674-980a-e9a8c6415e10
 ---
 **Course Meeting Times**    
 Lectures: 5 sessions / week, 7 hours / session
