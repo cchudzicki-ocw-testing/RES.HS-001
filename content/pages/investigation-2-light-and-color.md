@@ -16,29 +16,29 @@ TOPICS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Developing a model of light](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-2-light-and-color-activity-1/)
+{{% resource_link "6a290ccd-992b-432e-acee-d00c15759f05" "Developing a model of light" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-Introduction to image processing 
+{{% resource_link "bb1d0c90-031d-4fd8-b970-edaabac98829" "Introduction to image processing" %}} 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-Developing and using flux / luminosity relationship
+{{% resource_link "e3104162-f200-4b58-8321-c931c651eeb1" "Developing and using flux / luminosity relationship" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
-Measuring color
+{{% resource_link "7b8b6ef7-48c3-4512-824a-79084e0691f7" "Measuring color" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 5
 {{< tdclose >}}{{< tdopen >}}
-Colors that humans cannot see
+{{% resource_link "f924523a-bc75-4c6b-918b-99aa9c514a7e" "Colors that humans cannot see" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 6
 {{< tdclose >}}{{< tdopen >}}
-"True" X-ray color image of Orion
+{{% resource_link "a4a99b13-49f6-43d2-9f29-fc2cd0123cba" "\"True\" X-ray color image of Orion" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 7
 {{< tdclose >}}{{< tdopen >}}
-Wrap-up project: Orion Nebula
+{{% resource_link "bfb29872-76eb-4468-bee6-6776fb8535db" "Wrap-up project: Orion Nebula" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
