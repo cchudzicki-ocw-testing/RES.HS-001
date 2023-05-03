@@ -25,7 +25,6 @@ leftnav:
   weight: 60
 - identifier: 33de0a59-aad7-4ebe-8098-5eee5b080284
   name: 'Investigation 6: Galaxy Clusters'
-  url: /pages/investigation-6-galaxy-clusters
   weight: 70
 - identifier: cc8daef2-68d9-4c36-b5bb-c933c57f103f
   name: 'Activity 1 '
@@ -185,10 +184,8 @@ leftnav:
 - identifier: 2221ed2d-c98d-43fb-95d4-a67b9689b854
   name: Activity 4
   parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
-  url: /pages/investigation-6-galaxy-clusters-activity-4
   weight: 40
 - identifier: 911e2953-58e4-420c-b68e-0a94f468cd08
   name: Activity 5
   parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
-  url: /pages/investigation-6-galaxy-clusters-activity-5
   weight: 50
