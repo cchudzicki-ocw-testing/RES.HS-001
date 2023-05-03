@@ -12,27 +12,27 @@ uid: 6567e1bc-f03a-48d3-83a6-d3a8d10a9fe1
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Modeling why objects produce light](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-3-production-of-light-activity-1/)
+{{% resource_link "0722da69-f006-4c37-badb-f8c02e327d6d" "Modeling why objects produce light" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-[Extracting and examining spectra](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-3-production-of-light-activity-2/)
+{{% resource_link "470c67a1-740d-4aba-9659-0e037cf9b1d6" "Extracting and examining spectra" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-[Kinesthetic spectrum detection model](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-3-production-of-light-activity-3/)
+{{% resource_link "c8a0fddc-c8fc-4dd5-8694-605dd4e9c0d4" "Kinesthetic spectrum detection model" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
-[Fitting observed spectra to models](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-3-production-of-light-activity-4/)
+{{% resource_link "a3d9f6b0-af3c-4b1f-afec-81d8971efc43" "Fitting observed spectra to models" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 5
 {{< tdclose >}}{{< tdopen >}}
-[Blackbody properties](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-3-production-of-light-activity-5/)
+{{% resource_link "7cbfaacd-f9d9-46d0-954a-19b64baa017e" "Blackbody properties" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 6
 {{< tdclose >}}{{< tdopen >}}
-[Wrap-up project: writing about an argument](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-3-production-of-light-activity-6/)
+{{% resource_link "592365ed-8425-42cc-8a96-4a9af5fe9880" "Wrap-up project: writing about an argument" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
