@@ -16,25 +16,25 @@ Overview: This investigation gives students further chance to practice many of t
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Motivating observations / questions about explosions](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-4-supernova-remnants-activity-1/)
+{{% resource_link "db2d5b40-b2bd-4733-b5ca-7f057dba3aa3" "Motivating observations / questions about explosions" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-[Simple investigation of Cas A to identify interesting features](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-4-supernova-remnants-activity-2/)
+{{% resource_link "95e6b0f7-d095-4c6f-bd3e-03916e304bfb" "Simple investigation of Cas A to identify interesting features" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-[Kinesthetic model of discrete spectra](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-4-supernova-remnants-activity-3/)
+{{% resource_link "fdadf712-71a0-44d8-9781-6f0656b9fdcc" "Kinesthetic model of discrete spectra" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
-[Analysis of different parts of Cas A](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-4-supernova-remnants-activity-4/)
+{{% resource_link "987231cc-33f3-4b67-80ec-a62d43ca53ad" "Analysis of different parts of Cas A" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 5
 {{< tdclose >}}{{< tdopen >}}
-[Investigate three supernova remnants to compare their properties](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-4-supernova-remnants-activity-5/)
+{{% resource_link "44bffa8a-b6c1-4a13-86c1-453a5e09728a" "Investigate three supernova remnants to compare their properties" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 6
 {{< tdclose >}}{{< tdopen >}}
-[Investigation summary: mini poster session](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-4-supernova-remnants-activity-6/)
+{{% resource_link "e2d39f0a-6008-4a0d-a1f5-f099eab89871" "Investigation summary: mini poster session" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
