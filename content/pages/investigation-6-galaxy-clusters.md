@@ -14,21 +14,21 @@ Overview: Students make observations of individual galaxies in visible and X-ray
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Introduction to galaxies](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-1/)
+{{% resource_link "50c1682a-8a82-4e13-ba44-0a1a415fd30e" "Introduction to galaxies" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-[What can we learn about velocity from light? / Doppler effect](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-2/)
+{{% resource_link "9c5d85af-fbcc-46a5-8685-bca2de9e6e88" "What can we learn about velocity from light? / Doppler effect" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-[Applying Doppler effect to moving galaxies](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-3/)
+{{% resource_link "92b42663-d1bf-4e7c-9acd-8b22577ddc4b" "Applying Doppler effect to moving galaxies" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
-[Observations of galaxy clusters](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-4/)
+{{% resource_link "39b20dfd-1430-4d4c-a4a3-9d2568883c85" "Observations of galaxy clusters" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 5
 {{< tdclose >}}{{< tdopen >}}
-[Predictions of linear size of galaxy cluster](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-5/)
+{{% resource_link "526faffe-a07b-40c8-bf81-7928ef709b52" "Predictions of linear size of galaxy cluster" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
