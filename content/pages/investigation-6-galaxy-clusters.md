@@ -14,15 +14,15 @@ Overview: Students make observations of individual galaxies in visible and X-ray
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Introduction to galaxies](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-1/)
+[Introduction to galaxies](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-1/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-[What can we learn about velocity from light? / Doppler effect](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-2/)
+[What can we learn about velocity from light? / Doppler effect](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-2/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-[Applying Doppler effect to moving galaxies](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-3/)
+[Applying Doppler effect to moving galaxies](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-6-galaxy-clusters-activity-3/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
