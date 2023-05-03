@@ -16,21 +16,21 @@ Instructors guide students through a simple analysis and interpretation of one X
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Introduction to variability](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-1/)
+[Introduction to variability](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-1/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-[Extracting X-ray light curves: binary star 4U1822](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-2/)
+[Extracting X-ray light curves: binary star 4U1822](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-2/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-[Interpreting the light curve of 4U1822](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-3/)
+[Interpreting the light curve of 4U1822](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-3/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
-[Create and investigate light curves for two other objects (half the class does each object): Cyg X-1 and burster GS1826-238](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-4/)
+[Create and investigate light curves for two other objects (half the class does each object): Cyg X-1 and burster GS1826-238](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-4/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 5
 {{< tdclose >}}{{< tdopen >}}
-[Building arguments](https://draft-qa.ocw.mit.edu/courses/hfh-111-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-5-6/)
+[Building arguments](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-5-variable-x-ray-sources-activity-5-6/)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
