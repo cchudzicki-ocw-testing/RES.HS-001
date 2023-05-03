@@ -14,25 +14,25 @@ Topics
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-[Models in science / simple telescopes](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-1-size-and-distance-activity-12/)
+{{% resource_link "cc8daef2-68d9-4c36-b5bb-c933c57f103f" "Models in science / simple telescopes" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-[Opening observations to generate questions about "size of objects in images" / plotting observations about angular size](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-1-size-and-distance-activity-2/)
+{{% resource_link "ecba92d9-b465-4db2-8e62-f3ae11248eeb" "Opening observations to generate questions about \"size of objects in images\" /m plotting observations about angular size" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
-[Defining and measuring angular width, unit conversions, scientific notation](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-1-size-and-distance-activity-3/)
+{{% resource_link "3099d511-c56a-4816-833f-b79da2991f1d" "Defining and measuring angular width, unit conversions, scientific notation" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 4
 {{< tdclose >}}{{< tdopen >}}
-[Building and applying mathematical models of angular size](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-1-size-and-distance-activity-4/)
+{{% resource_link "84027003-c25e-4d85-a77c-758fdccabc4a" "Building and applying mathematical models of angular size" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 5
 {{< tdclose >}}{{< tdopen >}}
-[Spatial resolution / proper motion](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-1-size-and-distance-activity-5/)
+{{% resource_link "8c28079a-82b5-4be9-ad0d-f94962568638" "Spatial resolution / proper motion" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 6
 {{< tdclose >}}{{< tdopen >}}
-[Investigation summary / review project](https://draft.ocw.mit.edu/courses/res-hs-001-res-hs-001-chandra-astrophysics-institute/pages/investigation-1-size-and-distance-activity-6/)
+{{% resource_link "2a84c2e4-aca0-478b-aa39-f6a7197770e2" "Investigation summary / review project" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
