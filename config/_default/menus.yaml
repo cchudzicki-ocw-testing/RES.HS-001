@@ -76,11 +76,21 @@ leftnav:
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   url: /pages/investigation-1-size-and-distance-activity-42
   weight: 40
+- identifier: f924523a-bc75-4c6b-918b-99aa9c514a7e
+  name: Activity 5
+  parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
+  url: /pages/investigation-1-size-and-distance-activity-52
+  weight: 50
+- identifier: a4a99b13-49f6-43d2-9f29-fc2cd0123cba
+  name: Activity 6
+  parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
+  url: /pages/investigation-1-size-and-distance-activity-62
+  weight: 60
 - identifier: bfb29872-76eb-4468-bee6-6776fb8535db
   name: Activity 7
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   url: /pages/investigation-2-light-and-color-activity-7
-  weight: 50
+  weight: 70
 - identifier: 0722da69-f006-4c37-badb-f8c02e327d6d
   name: 'Activity 1 '
   parent: 6567e1bc-f03a-48d3-83a6-d3a8d10a9fe1
